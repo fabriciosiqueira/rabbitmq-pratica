@@ -1,0 +1,22 @@
+{
+  "name": "rabbitmq-pratica",
+  "version": "1.0.0",
+  "description": "rabbitmq with docker",
+  "main": "producer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabriciosiqueira/rabbitmq-pratica.git"
+  },
+  "author": "FabricioSiqueira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabriciosiqueira/rabbitmq-pratica/issues"
+  },
+  "homepage": "https://github.com/fabriciosiqueira/rabbitmq-pratica#readme",
+  "dependencies": {
+    "amqplib": "^0.7.1"
+  }
+}
